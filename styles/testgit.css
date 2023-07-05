@@ -4,3 +4,8 @@ div{
     margin: auto;
     text-align: center;
 }
+
+#hiddenDiv{
+    margin: 10px;
+    visibility: hidden;
+}
